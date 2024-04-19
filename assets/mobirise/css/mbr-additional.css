@@ -1109,15 +1109,15 @@ section.lazy-placeholder:after {
     margin-top: 10px;
   }
 }
-.cid-uapOIw4gmd {
+.cid-uapTLdUTWW {
   padding-top: 0rem;
   padding-bottom: 0rem;
   background: #000000;
 }
-.cid-uapOIw4gmd .mbr-fallback-image.disabled {
+.cid-uapTLdUTWW .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uapOIw4gmd .mbr-fallback-image {
+.cid-uapTLdUTWW .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1126,20 +1126,20 @@ section.lazy-placeholder:after {
   position: absolute;
   top: 0;
 }
-.cid-uapOIw4gmd .container-fluid {
+.cid-uapTLdUTWW .container-fluid {
   padding: 0;
 }
 @media (max-width: 768px) {
-  .cid-uapOIw4gmd .container-fluid {
+  .cid-uapTLdUTWW .container-fluid {
     padding: 0;
   }
 }
 @media (max-width: 768px) {
-  .cid-uapOIw4gmd .container {
+  .cid-uapTLdUTWW .container {
     padding: 0 26px;
   }
 }
-.cid-uapOIw4gmd .embla__slide {
+.cid-uapTLdUTWW .embla__slide {
   display: flex;
   justify-content: center;
   position: relative;
@@ -1147,32 +1147,32 @@ section.lazy-placeholder:after {
   max-width: 690px;
 }
 @media (max-width: 768px) {
-  .cid-uapOIw4gmd .embla__slide {
+  .cid-uapTLdUTWW .embla__slide {
     min-width: 85%;
     max-width: 85%;
     margin-left: 1rem !important;
     margin-right: 1rem !important;
   }
 }
-.cid-uapOIw4gmd .embla__slide a {
+.cid-uapTLdUTWW .embla__slide a {
   display: block;
   width: 100%;
 }
-.cid-uapOIw4gmd .embla__slide a:hover .card-wrap .item-wrapper .image-wrap::before {
+.cid-uapTLdUTWW .embla__slide a:hover .card-wrap .item-wrapper .image-wrap::before {
   opacity: .65;
 }
-.cid-uapOIw4gmd .embla__slide a:hover .card-wrap .item-wrapper .image-wrap .content-wrap {
+.cid-uapTLdUTWW .embla__slide a:hover .card-wrap .item-wrapper .image-wrap .content-wrap {
   opacity: 1;
   transform: translateX(0);
 }
-.cid-uapOIw4gmd .embla__slide a .card-wrap .item-wrapper .image-wrap {
+.cid-uapTLdUTWW .embla__slide a .card-wrap .item-wrapper .image-wrap {
   position: relative;
   min-height: 460px;
   display: flex;
   align-items: flex-end;
   padding: 30px;
 }
-.cid-uapOIw4gmd .embla__slide a .card-wrap .item-wrapper .image-wrap::before {
+.cid-uapTLdUTWW .embla__slide a .card-wrap .item-wrapper .image-wrap::before {
   content: '';
   position: absolute;
   top: 0;
@@ -1187,11 +1187,11 @@ section.lazy-placeholder:after {
   z-index: 1;
 }
 @media (max-width: 992px) {
-  .cid-uapOIw4gmd .embla__slide a .card-wrap .item-wrapper .image-wrap::before {
+  .cid-uapTLdUTWW .embla__slide a .card-wrap .item-wrapper .image-wrap::before {
     opacity: .65;
   }
 }
-.cid-uapOIw4gmd .embla__slide a .card-wrap .item-wrapper .image-wrap img {
+.cid-uapTLdUTWW .embla__slide a .card-wrap .item-wrapper .image-wrap img {
   position: absolute;
   top: 0;
   left: 0;
@@ -1200,7 +1200,7 @@ section.lazy-placeholder:after {
   object-fit: cover;
   pointer-events: visible;
 }
-.cid-uapOIw4gmd .embla__slide a .card-wrap .item-wrapper .image-wrap .content-wrap {
+.cid-uapTLdUTWW .embla__slide a .card-wrap .item-wrapper .image-wrap .content-wrap {
   position: relative;
   z-index: 1;
   width: 100%;
@@ -1208,23 +1208,23 @@ section.lazy-placeholder:after {
   transform: translateX(-20px);
   transition: all 0.3s ease-in-out;
 }
-.cid-uapOIw4gmd .embla__slide a .card-wrap .item-wrapper .image-wrap .content-wrap .card-title {
+.cid-uapTLdUTWW .embla__slide a .card-wrap .item-wrapper .image-wrap .content-wrap .card-title {
   margin-bottom: 0;
 }
-.cid-uapOIw4gmd .embla__slide a .card-wrap .item-wrapper .image-wrap .content-wrap .card-desc {
+.cid-uapTLdUTWW .embla__slide a .card-wrap .item-wrapper .image-wrap .content-wrap .card-desc {
   margin: 0;
 }
 @media (max-width: 992px) {
-  .cid-uapOIw4gmd .embla__slide a .card-wrap .item-wrapper .image-wrap .content-wrap {
+  .cid-uapTLdUTWW .embla__slide a .card-wrap .item-wrapper .image-wrap .content-wrap {
     opacity: 1;
     transform: translateX(0);
   }
 }
-.cid-uapOIw4gmd .embla__button--next,
-.cid-uapOIw4gmd .embla__button--prev {
+.cid-uapTLdUTWW .embla__button--next,
+.cid-uapTLdUTWW .embla__button--prev {
   display: flex;
 }
-.cid-uapOIw4gmd .embla__button {
+.cid-uapTLdUTWW .embla__button {
   top: 50%;
   width: 60px;
   height: 60px;
@@ -1239,63 +1239,58 @@ section.lazy-placeholder:after {
   justify-content: center;
   align-items: center;
 }
-@media (max-width: 768px) {
-  .cid-uapOIw4gmd .embla__button {
-    display: none;
-  }
-}
-.cid-uapOIw4gmd .embla__button:disabled {
+.cid-uapTLdUTWW .embla__button:disabled {
   cursor: default;
   display: none;
 }
-.cid-uapOIw4gmd .embla__button:hover {
+.cid-uapTLdUTWW .embla__button:hover {
   background: transparent;
   color: #ffffff;
 }
-.cid-uapOIw4gmd .embla__button.embla__button--prev {
+.cid-uapTLdUTWW .embla__button.embla__button--prev {
   left: 0;
   margin-left: 60px;
 }
 @media (max-width: 992px) {
-  .cid-uapOIw4gmd .embla__button.embla__button--prev {
+  .cid-uapTLdUTWW .embla__button.embla__button--prev {
     margin-left: 26px;
   }
 }
-.cid-uapOIw4gmd .embla__button.embla__button--next {
+.cid-uapTLdUTWW .embla__button.embla__button--next {
   right: 0;
   margin-right: 60px;
 }
 @media (max-width: 992px) {
-  .cid-uapOIw4gmd .embla__button.embla__button--next {
+  .cid-uapTLdUTWW .embla__button.embla__button--next {
     margin-right: 26px;
   }
 }
-.cid-uapOIw4gmd .embla {
+.cid-uapTLdUTWW .embla {
   position: relative;
   width: 100%;
 }
-.cid-uapOIw4gmd .embla__viewport {
+.cid-uapTLdUTWW .embla__viewport {
   overflow: hidden;
   width: 100%;
 }
-.cid-uapOIw4gmd .embla__viewport.is-draggable {
+.cid-uapTLdUTWW .embla__viewport.is-draggable {
   cursor: grab;
 }
-.cid-uapOIw4gmd .embla__viewport.is-dragging {
+.cid-uapTLdUTWW .embla__viewport.is-dragging {
   cursor: grabbing;
 }
-.cid-uapOIw4gmd .embla__container {
+.cid-uapTLdUTWW .embla__container {
   display: flex;
   user-select: none;
   -webkit-touch-callout: none;
   -khtml-user-select: none;
   -webkit-tap-highlight-color: transparent;
 }
-.cid-uapOIw4gmd .card-title {
+.cid-uapTLdUTWW .card-title {
   color: #ffffff;
 }
-.cid-uapOIw4gmd .card-desc {
-  color: #767676;
+.cid-uapTLdUTWW .card-desc {
+  color: #cacaca;
 }
 .cid-u9tdJLKtNh {
   padding-top: 45px;
