@@ -751,7 +751,7 @@
             "& when (@fullWidth)": {
               ".container-fluid": {
                 "padding": "0",
-                "@media (max-width: 768px)": {
+                "@media (max-width: 900px)": {
                   "padding": "0"
                 }
               }
@@ -922,12 +922,12 @@
           },
           "_cid": "uapTLdUTWW",
           "_anchor": "slider4-4x",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "_name": "social01",
