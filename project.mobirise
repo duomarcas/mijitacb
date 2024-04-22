@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "moda.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "tastem4",
       "title": "TasteM4",
@@ -779,7 +779,7 @@
                 "&:hover": {
                   ".card-wrap .item-wrapper .image-wrap": {
                     "&::before": {
-                      "opacity": ".65"
+                      "opacity": ".40"
                     },
                     ".content-wrap": {
                       "opacity": "1",
@@ -802,7 +802,7 @@
                         "left": "0",
                         "height": "100%",
                         "width": "100%",
-                        "border": "1px solid @border",
+                        "border": "0px solid @border",
                         "background-color": "@over",
                         "opacity": "0",
                         "pointer-events": "none",
@@ -925,7 +925,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_name": "social01",

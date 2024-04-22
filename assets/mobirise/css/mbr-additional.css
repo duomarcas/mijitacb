@@ -1159,7 +1159,7 @@ section.lazy-placeholder:after {
   width: 100%;
 }
 .cid-uapTLdUTWW .embla__slide a:hover .card-wrap .item-wrapper .image-wrap::before {
-  opacity: .65;
+  opacity: .40;
 }
 .cid-uapTLdUTWW .embla__slide a:hover .card-wrap .item-wrapper .image-wrap .content-wrap {
   opacity: 1;
@@ -1179,7 +1179,7 @@ section.lazy-placeholder:after {
   left: 0;
   height: 100%;
   width: 100%;
-  border: 1px solid #000000;
+  border: 0px solid #000000;
   background-color: #000000;
   opacity: 0;
   pointer-events: none;
